@@ -1,5 +1,5 @@
 # CS1210_Final_Project
-Josie Glass and Bee Millie
+By Josie Glass and Bee Millie.
 The title of our project is WarBoat. It’s an online version of battle ship with “X” to show a hit and “O” to show a miss. The grid is originally full of blank spaces (“ “) which represent a not-guessed space on the grid and the first row and column are labeled with letters and numbers to signify the space being referred to (ex: A4). The player plays against the computer, whose turns and board are randomized. The player places their boats in the beginning of the game and play goes back and forth until one of the players’ boats are sunk. 
 To run and test the program, each individual function could be tested separately. Some functions rely on variables, so those should be tested while those variables remain. To verify the program functions correctly, we tested each function individually and then practice played the game several times. To run the program, click run and follow the instructions in game. 
 We brainstormed together to pick a topic at the beginning of the project. We met up every Thursday together after class to work on the project. In the beginning, Bee wrote some starter code separately and then we discussed it and made edits when we met after class. We wrote the README together in class. 
